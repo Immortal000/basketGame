@@ -5,11 +5,10 @@ characters = string.ascii_lowercase+string.digits+string.punctuation
 basket_numbers = string.digits 
 basket_alphabets = string.ascii_lowercase
 basket_punc = string.punctuation
-###################
-'''a = alphabets  #
-n = numbers       #
-p = punctuation'''#
-###################
+
+'''a = alphabets  
+n = numbers       
+p = punctuation'''
 pygame.init() 
 
 background = (0,0,0)
